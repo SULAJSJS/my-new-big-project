@@ -1,5 +1,6 @@
 import './App.css';
 import FavoritePage from './page/favoritePage/FavoritePage';
+import 'macro-css'
 
 function App() {
 
